@@ -3,7 +3,7 @@ $.inputArea = undefined;
 $.outputArea = undefined;
 
 $(function(){
-	//powered by zhengkai.blog.csdn.net
+	//powered by zz
 
 	//init input code area
 	$.inputArea = CodeMirror.fromTextArea(document.getElementById("inputArea"), {

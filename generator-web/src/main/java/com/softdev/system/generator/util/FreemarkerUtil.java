@@ -28,7 +28,7 @@ public class FreemarkerUtil {
 
     /**
      * 传入需要转义的字符串进行转义
-     * 20200503 zhengkai.blog.csdn.net
+     * 20200503 zz
      */
     public static String escapeString(String originStr) {
         return originStr.replaceAll("井", "\\#").replaceAll("￥", "\\$");

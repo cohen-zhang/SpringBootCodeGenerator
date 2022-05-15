@@ -24,7 +24,7 @@ import java.util.stream.Collectors;
 /**
  * GeneratorService
  *
- * @author zhengkai.blog.csdn.net
+ * @author zz
  */
 @Slf4j
 @Service
@@ -35,7 +35,7 @@ public class GeneratorServiceImpl implements GeneratorService {
     /**
      * 从项目中的JSON文件读取String
      *
-     * @author zhengkai.blog.csdn.net
+     * @author zz
      */
     @Override
     public String getTemplateConfig() throws IOException {
@@ -54,7 +54,7 @@ public class GeneratorServiceImpl implements GeneratorService {
     /**
      * 根据配置的Template模板进行遍历解析，得到生成好的String
      *
-     * @author zhengkai.blog.csdn.net
+     * @author zz
      */
     @Override
     public Map<String, String> getResultByParams(Map<String, Object> params) throws IOException, TemplateException {

@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * Post data - ParamInfo
  *
- * @author zhengkai.blog.csdn.net
+ * @author zz
  */
 @Data
 public class ParamInfo {

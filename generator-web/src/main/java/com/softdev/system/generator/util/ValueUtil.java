@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * Get Value From Application.yml
- * @author zhengkai.blog.csdn.net
+ * @author zz
  */
 @Data
 @Component

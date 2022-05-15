@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * common returnT:公共返回封装类
  *
- * @author zhengkai.blog.csdn.net
+ * @author zz
  */
 @Data
 public class ReturnT extends HashMap<String, Object> {

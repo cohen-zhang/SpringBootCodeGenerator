@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author zhengkai.blog.csdn.net
+ * @author zz
  */
 @ControllerAdvice
 public class GlobalDefaultExceptionHandler {

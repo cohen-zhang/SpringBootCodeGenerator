@@ -7,7 +7,7 @@
 [![Build Status](https://travis-ci.org/moshowgame/SpringBootCodeGenerator.svg?branch=master)](https://travis-ci.org/moshowgame/SpringBootCodeGenerator)
 
 # Author
->powered by `Moshow郑锴(大狼狗)` , [https://zhengkai.blog.csdn.net](https://zhengkai.blog.csdn.net)
+>powered by `Moshow郑锴(大狼狗)` , [https://zz](https://zz)
 
 # Description
 >Based on SpringBoot2+Freemarker<br>
@@ -52,7 +52,7 @@ Thanks for `JetBrains` providing us the `Licenses for Open Source Development` �
 |:--------------|:--------------------------------------------------------------|
 | BEJSON 在线地址   | https://java.bejson.com/generator                             |
 | DEVTOOLS 在线地址 | https://java.devtools.cn                                      |
-| CSDN BLOG     | https://zhengkai.blog.csdn.net                                |
+| CSDN BLOG     | https://zz                                |
 | GITEE仓库       | https://gitee.com/moshowgame/SpringBootCodeGenerator/releases |
 | GITHUB仓库      | https://github.com/moshowgame/SpringBootCodeGenerator         |
 
@@ -128,7 +128,7 @@ Thanks for `JetBrains` providing us the `Licenses for Open Source Development` �
 # Options
 |名称|说明|默认值|
 |:----|:----|:----|
-|作者 |authorName|zhengkai.blog.csdn.net|
+|作者 |authorName|zz|
 |包名 |packageName|cn.devtools|
 |返回(成功)|returnUtilSuccess|Return.SUCCESS|
 |返回(失败)|returnUtilFailure|Return.ERROR|
