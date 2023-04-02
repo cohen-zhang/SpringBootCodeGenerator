@@ -113,6 +113,7 @@ Thanks for `JetBrains` providing us the `Licenses for Open Source Development` �
 | 2018.09.15  | 新增Swagger-UI模板.修复一些命名和导入问题.JPA的Entity默认第一个字段为Id,如果不是请手工修改.                                                                                                                                                                                                        |
 | 2018.09.13  | 修复字段没有描述以及类型为DATE型导致的问题.新增JPA的Controller模板.                                                                                                                                                                                                                       |
 | 2018.08.31  | 初始化项目.新增JPA系列Entity+Repository模板.                                                                                                                                                                                                                                 |
+## 生成表结构和数据字典
 
 # ClassInfo/TableInfo
 |名称|说明|
@@ -152,6 +153,5 @@ Thanks for `JetBrains` providing us the `Licenses for Open Source Development` �
 
 <img src="./codegenerator1.png">
 <img src="./codegenerator2.png">
-<img src="./site_analysis.png">
-<img src="./donate.png">
+
 
